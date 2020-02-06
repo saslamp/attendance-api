@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "username": "sadiq",
+      "password": "superadmin",
+      "role": "super_admin"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "jd@aexample.com",
+      "gender": "male",
+      "status": "Regular",
+      "id": 1
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane@example.com",
+      "gender": "male",
+      "status": "Moderate",
+      "id": 2
+    },
+    {
+      "firstName": "Hulk",
+      "lastName": "the Incredible",
+      "email": "hulk@avengers.com",
+      "gender": "male",
+      "status": "never attended",
+      "id": 3
+    },
+    {
+      "firstName": "Thor",
+      "lastName": "son of Odin",
+      "email": "thor@asgard.com",
+      "gender": "male",
+      "status": "never attended",
+      "id": 4
+    },
+    {
+      "firstName": "Captain",
+      "lastName": "Marvel",
+      "email": "cm@avengers.com",
+      "gender": "female",
+      "status": "never attended",
+      "id": 5
+    },
+    {
+      "firstName": "Dr",
+      "lastName": "Strange",
+      "email": "drs@avengers.com",
+      "gender": "male",
+      "status": "Moderate",
+      "id": 6
+    },
+    {
+      "firstName": "Kingsley",
+      "lastName": "Tobi",
+      "email": "kingsley@mail.com",
+      "gender": "male",
+      "status": "Moderate",
+      "id": 7
+    }
+  ],
+  "meetings": [
+    {
+      "id": 1,
+      "title": "Meeting of all meetings",
+      "attendance": [
+        "John Doe",
+        "Captain Marvel"
+      ]
+    },
+    {
+      "title": "Lets decide the strongest avenger",
+      "attendance": [
+        "Captain Marvel",
+        "Thor son of Odin",
+        "Hulk the Incredible"
+      ],
+      "id": 2
+    },
+    {
+      "title": "meeting about salary",
+      "attendance": [
+        "Abdulqadr Abdullahi",
+        "sadiq sambo"
+      ],
+      "id": 3
+    },
+    {
+      "title": "displaying app meeting",
+      "attendance": [
+        "Kingsley Tobi",
+        "Dr Strange",
+        "Jane Doe"
+      ],
+      "id": 4
+    }
+  ]
+}
